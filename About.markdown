@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2024-11-27 14:20:00 Z
-published: false
 ---
 
 Hey, I'm B. I’m a Mechanical Engineer specializing in Research & Development. I hold a BS in Mechanical Engineering and an MBA, both from Northeastern University. 
